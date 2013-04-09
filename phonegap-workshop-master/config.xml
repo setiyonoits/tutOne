@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.ublu.tutOne"
+        id          = "com.setiyonoits.tutOne"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.0.1">
  
-    <name>Employee Directory</name>
+    <name>tutOne</name>
  
     <description>
         A simple employee directory application
     </description>
  
-    <author href="http://patayasp.cm" email="tiyo045@gmail.com">
+    <author href="http://setiyonoits.wordpress.com" email="setiyono.its@gmail.com">
         Setiyono Tiyo
     </author>
  
